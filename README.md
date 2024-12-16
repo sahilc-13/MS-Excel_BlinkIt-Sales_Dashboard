@@ -6,5 +6,6 @@ To conduct a comprehensive analysis of Blinkit's sales performance, customer sat
 ### Project Overview
 The dashboard showcase a visual representation of:
 1. KPIs requirements
-2. Total sales by Fat Content, Item Types, Outlet Establishment
--Sales by Outlet Size, Outlet Location, Outlet Type
+2. Chart's requirements
+ - Total sales by Fat Content, Item Types, Outlet Establishment
+3. Sales by Outlet Size, Outlet Location, Outlet Type
