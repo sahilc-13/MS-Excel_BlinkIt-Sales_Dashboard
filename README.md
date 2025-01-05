@@ -14,5 +14,5 @@ The dashboard showcase a visual representation of:
  - Total sales by Fat Content
  - Total Sales by item types
  - Fat Content by Outlet for Sales
- - Total Sales by Outlet Establishment
+ - Total Sales by Outlet Establishment, Size, Location, Type
 
